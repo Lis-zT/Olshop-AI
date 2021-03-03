@@ -1,4 +1,5 @@
 Rencana
 
 Membuat Olshop Fashion
-Manmbahkan fitur membuat character untuk pembeli di olshop
+Manambahkan fitur membuat character untuk pembeli di olshop
+Memudahkan pembeli membeli barang yang cocok dengan fitur character
