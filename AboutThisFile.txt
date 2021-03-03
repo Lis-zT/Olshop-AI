@@ -1,0 +1,4 @@
+Rencana
+
+Membuat Olshop Fashion
+Manmbahkan fitur membuat character untuk pembeli di olshop
